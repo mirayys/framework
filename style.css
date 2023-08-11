@@ -31,13 +31,19 @@
     width: 92%;
 }
 
+/* .style-btn {
+    margin-top: -500px;
+} */
+
 .btn-sign{
     background: #25DAC5;
     color: #ffffff;
     text-align: center;
+    font-size: medium;
     border-radius: 100px;
     border: none;
     padding: 2px 12px;
+    margin-bottom: 20px;
 }
 
 .signup-text p{
