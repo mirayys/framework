@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;400;500;600;700;800&display=swap');
+
+/* Header 1 styling starts here  */
+
+.row{
+    margin: 0 !important;
+}
+
+
+.nav-link, .btn-log p{
+    color: #151439 !important;
+    opacity: 40%;
+    font-size: 18px;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 500;
+    background: none;
+}
+
+.nav-link{
+    margin-top: 0px;
+}
+
+
+/* styling button */
+
+.btn-log{
+    background: none;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 500;
+    opacity: 40%;
+}
+
+
+.btn-log, .btn-sign{
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 18px;
+}
+.btn-sign{
+    padding: 5px 13px;
+    background: #25DAC5;
+    color: #ffffff;
+    border-radius: 100px;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 500;
+}
+
+
+
+.btn-sign:hover {
+    background: #179e73;
+}
+
+.framework{
+       text-align: center;
+       margin-top: 80px;
+         
+}
+
+
+.framework h1{
+    color: #1b143ee1;
+    font-size: 50px;
+    line-height: 86px;  
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 700;
+}
+
+h4 a{
+    color: #3c2d87e1 !important;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 700;
+    margin-top: 30px;
+    
+}
+
+.more{
+    color: #25DAC5;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+}
+
+
+.pr-btn,.buy-btn{
+    text-align: center;
+    padding: 9px 30px;
+    border-radius: 100px;
+    border: none;
+    margin-top: 24px;
+}
+
+.buy-btn{
+    background: #25DAC5;
+    color: #ffffff;
+}
+
+/* Header 1 styling ends here  */
+
+/* Header 2 styling starts here  */
+
+.Header2{
+    background:#2f1893 !important;
+}
+
+.snd-btn{
+    padding: 7px 23px;
+    background: #25DAC5;
+    color: #ffffff;
+    border-radius: 100px;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 500;
+    border: none;
+}
+
+.snd-btn:hover {
+    background: #46e9b5;
+}
+
+.button1{
+    
+    border-radius: 100px;
+    padding: 8px 30px;
+    background-color:  #2f1893;
+    color: white;
+    border:0.3px #706f6f solid;
+    opacity: 70px;
+    
+}
+
+.register{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main-content1, .p2{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    line-height: 32px;
+    font-style: normal;
+    font-family: 'DMSans', sans-serif;
+    font-weight: 500;
+}
+
+.make{
+    font-size: 52px;
+    color: white;
+    line-height: 86px;
+    font-family: 'DMSans', sans-serif;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.signup{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #706f6f;
+    font-size: 16px;
+    margin-right: 30px;
+    text-align: center;
+    margin-top: 10px;
+    padding-left:10%;
+    margin-bottom: 20px;
+    
+}
+
+.jhus h4 a{
+    color: white !important;
+}
+
+.jhus1 li a{
+    color: white !important;
+}
+
+
+
+
+@media screen and (max-width: 992px) {
+    .main-content1{
+        margin: 5px 20px;
+
+    }
+
+    .make{
+        font-size: 20px;
+        
+    }
+}
+
+
+/* Header 2 styling ends here  */
+
+/* Header 4 styling starts here  */
+
+.main-content h1{
+   
+    
+    font-family: 'DMSans', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 40px;
+
+
+}
+
+.main-content img{
+    width: 45%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left:30%;
+}
+
+
+
+
+h1{
+    font-size: 52px;
+    color: rgba(30, 14, 98, 1);
+    line-height: 58px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    
+    .main-content img{
+        
+        width: 70%;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        margin-left: 60px;
+    }
+    
+     .framework h1{
+        font-size: 32px;
+     }
+
+     .framework p{
+        margin-left: 30px;
+        margin-right: 30px;
+        font-size: 13px;
+        font-weight: 300;
+     }
+     
+
+     .make{
+        font-size: 30px;
+        line-height: -12px;
+    }
+
+
+    .main-content{
+        margin-top: 30%;
+    }
+
+    /* .main-content h1{
+        margin-left: ;
+    } */
+}
+
+
+
+
+/* Header 4 styling ends here  */
+
+
+/* Header 5 styling starts here  */
+
+
+.btn-sign1{
+    padding: 5px 13px;
+    background:none;
+    color: #1E0E62;
+    border-radius: 100px;
+    font-family: 'DM+Sans' , sans-serif;
+    font-weight: 500;
+    border: 1px solid rgb(209, 204, 204);
+}
+
+
+.textcolor{
+    color: #1E0E62 !important;
+}
+
+
+
+.make1{
+    font-size: 50px;
+    color: #1E0E62;
+    line-height: 70px;
+    letter-spacing: -1px;
+    font-family: 'DMSans', sans-serif;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.gt-start,.gt-btn{
+    text-align: center;
+    padding: 6px 30px;
+    border-radius: 100px;
+    border: none;
+    
+}
+
+.gt-btn{
+    background: #25DAC5;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+
+img{
+    height: 10%;
+    width: 65%;
+    margin-bottom: 20px;
+}
+
+.vertical{
+   position: absolute;
+   left: 33.3%;
+   border-left: 2px solid #15143966;
+   height: 80px;
+   
+}
+
+.paragraph, .vertical{
+    color: #151439;
+    opacity: 40%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+@media screen and (max-width: 992px) {
+    .vertical{
+        border-left: 0px solid #15143966;        
+    }
+
+    .make1 {
+        font-size: 30px;
+    }
+
+    img{
+        height: 10%;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .paragraph{
+        
+        margin-top: 7px;
+        margin-bottom: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Header 4 styling ends here  */
